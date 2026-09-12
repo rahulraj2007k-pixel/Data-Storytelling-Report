@@ -1,0 +1,18 @@
+TASK 2 SUBMISSION CHECKLIST
+
+[✓] Source code: src/data_storytelling.py
+[✓] README.md with setup and usage
+[✓] requirements.txt
+[✓] Professional report: docs/Data_Storytelling_Report.pdf
+[✓] Screenshots: screenshots/
+[✓] Demo script: demo_video_script.txt
+[✓] Resource/data attribution
+[✓] No passwords/API keys/private credentials
+[✓] Existing GitHub repository reference included
+
+Before final submission:
+1. Put the authorized UCI Excel file in data/online_retail_II.xlsx.
+2. Run the Python script successfully.
+3. Open outputs/final_eda_dashboard.png and take one clean screenshot if the internship portal asks for a live-output screenshot.
+4. Record the 60–90 second demo using demo_video_script.txt.
+5. Push the source files (without raw dataset if redistribution is not intended) to GitHub.

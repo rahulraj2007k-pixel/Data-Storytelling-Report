@@ -1,0 +1,12 @@
+TASK 2 DEMO VIDEO SCRIPT (about 60–90 seconds)
+
+1. Open the project folder and show README.md.
+2. Show data/README.txt and explain that the raw UCI dataset is sourced legally and is not committed with the project.
+3. Open src/data_storytelling.py and briefly show the cleaning + feature engineering + chart generation sections.
+4. Run:
+   python src/data_storytelling.py
+5. Open outputs/final_eda_dashboard.png.
+6. Point to the KPI cards, monthly revenue trend, top countries, correlation heatmap and top products.
+7. Open docs/Data_Storytelling_Report.pdf and briefly show:
+   methodology → data quality → key findings → recommendations → limitations.
+8. End by showing the GitHub repository URL in README.md.

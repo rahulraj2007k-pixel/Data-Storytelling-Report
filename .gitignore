@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+*.pyc
+outputs/cleaned_online_retail.csv
+data/*.xlsx
